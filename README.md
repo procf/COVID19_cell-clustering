@@ -1,6 +1,6 @@
 # Circulating cell clusters aggravate the hemorheological abnormalities in COVID-19
 
-This repo contains input files for the simulation of three types of clusters in blood flow under a shear rate of 10 1/s: WBC-WBC (white-blood-cell with white-blood-cell), PLT-PLT (platelet with platelet), and WBC-PLT (white-blood-cell with platelet)
+This repo contains input files for the simulation of three types of clusters in blood flow under a shear rate of 10 1/s: [WBC-WBC](/WBC-WBC%20cluster) (white-blood-cell with white-blood-cell), [PLT-PLT](/PLT_PLT%20cluster) (platelet with platelet), and [WBC-PLT](/WBC-PLT%20cluster) (white-blood-cell with platelet)
 
 These codes were used in to investigate the dynamics of different types of circulating cell clusters and study how COVID-19 affects the rheology of blood.
 
