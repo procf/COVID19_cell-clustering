@@ -23,5 +23,5 @@ Inspired by a recent flow imaging cytometry study of the blood samples from pati
 
 
 ## Contributors
-This work was done by [Elahe Javadi](https://scholar.google.com/citations?hl=en&user=vLviwfgAAAAJ), He Li, Ander Dorken Gallastegi, Galit H. Frydman, [Safa Jamali](https://scholar.google.com/citations?user=D1asaYIAAAAJ&hl=en), and George Em Karniadakis. <br> H.L. and G.E.K. acknowledge the support from [National Institutes of Health grant R01HL154150](https://www.nhlbi.nih.gov/). H.L. acknowledges the support of [Richard B. Salomon Award of Brown University](https://www.brown.edu/research/conducting-research-brown/finding-funding/internal-funding-opportunities/ovpr-research-seed-awards). H.L. and G.E.K. acknowledge the support from [Extreme Science and Engineering Discovery Environment COVID-19 HPC Consortium, no. TG-BIO200088](https://www.xsede.org/).
+This work was done by [Elahe Javadi](https://scholar.google.com/citations?hl=en&user=vLviwfgAAAAJ), He Li, Ander Dorken Gallastegi, Galit H. Frydman, [Safa Jamali](https://scholar.google.com/citations?user=D1asaYIAAAAJ&hl=en), and George Em Karniadakis.
 
